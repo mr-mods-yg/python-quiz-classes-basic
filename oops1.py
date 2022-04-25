@@ -1,6 +1,3 @@
-from cgi import print_directory
-
-
 class Trivia:
     def __init__(self,zques,zopt,zans):
         self.ques = zques
